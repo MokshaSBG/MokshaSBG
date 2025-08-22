@@ -8,11 +8,11 @@ An Information Systems undergraduate at Sabaragamuwa University of Sri lanka whe
 
 ## Technologies & Tools
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,java,js,html,css,react,git&perline=18" alt="MokshaSBG skill icons" />
+  </a>
+</p>
 
 ## GitHub Stats
 
@@ -30,6 +30,6 @@ An Information Systems undergraduate at Sabaragamuwa University of Sri lanka whe
 
 ---
 
-From [MokshaSBG](https://github.com/MokshaSBG)
+From [@MokshaSBG](https://github.com/MokshaSBG)
 
 :-)=)-:
