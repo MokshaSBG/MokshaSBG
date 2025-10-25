@@ -2,7 +2,7 @@
 
 <!--[![Portfolio](https://img.shields.io/badge/portfolio-%23000000.svg?style=for-the-badge&logo=react&logoColor=white)](https://your-portfolio-website.com)-->
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/MokshaSBG/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gunarathnemoksha@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mokshasbg@proton.me)
 
 An Information Systems undergraduate at Sabaragamuwa University of Sri lanka where I'm learning to bridge the gap between business needs and technical software solutions. I love learning new technologies and turning ideas into reality through code.
 
@@ -26,7 +26,7 @@ An Information Systems undergraduate at Sabaragamuwa University of Sri lanka whe
 ## How to reach me
 
 - **LinkedIn:** [linkedin.com/in/MokshaSBG](https://www.linkedin.com/in/MokshaSBG/)
-- **Email:** [gunarathnemoksha@gmail.com](mailto:mokshasbg@proton.me)
+- **Email:** [mokshasbg@proton.me](mailto:mokshasbg@proton.me)
 
 ---
 
