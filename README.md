@@ -26,7 +26,7 @@ An Information Systems undergraduate at Sabaragamuwa University of Sri lanka whe
 ## How to reach me
 
 - **LinkedIn:** [linkedin.com/in/MokshaSBG](https://www.linkedin.com/in/MokshaSBG/)
-- **Email:** [gunarathnemoksha@gmail.com](mailto:gunarathnemoksha@gmail.com)
+- **Email:** [gunarathnemoksha@gmail.com](mailto:mokshasbg@proton.me)
 
 ---
 
